@@ -1,0 +1,9 @@
+#slides img {
+width: 400px;
+height: 300px;
+display: none;
+}
+
+#slides img:first-child {
+  display: inline;
+}
